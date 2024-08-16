@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "495944351564",
+    "project_id": "wishlink-final",
+    "storage_bucket": "wishlink-final.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495944351564:android:2693efa4c316e5419699e9",
+        "android_client_info": {
+          "package_name": "com.Wish.wish_link"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCYOEWSrV8eCmIhUKXIpU_JDA5MK_Bgx0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
